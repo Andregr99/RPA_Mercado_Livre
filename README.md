@@ -74,8 +74,11 @@ pip install -e .
 Crie um arquivo .env na raiz:
 
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASSWORD=
+
 DB_NAME=rpa_mercado_livre
 
 🗃️ Execute o SQL para criar a tabela (apenas uma vez):
