@@ -84,12 +84,19 @@ DB_NAME=rpa_mercado_livre
 🗃️ Execute o SQL para criar a tabela (apenas uma vez):
 
 CREATE TABLE produtos (
+
     id INT AUTO_INCREMENT PRIMARY KEY,
+    
     nome VARCHAR(255) NOT NULL,
+    
     preco DECIMAL(10, 2) NOT NULL,
+    
     avaliacao FLOAT,
+    
     vendedor VARCHAR(255),
+    
     qtd_avaliacoes INT,
+    
     data_coleta DATE NOT NULL
 );
 
