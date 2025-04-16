@@ -1,0 +1,12 @@
+README.md
+setup.py
+config/__init__.py
+config/logger.py
+config/settings.py
+modules/__init__.py
+modules/scraper/__init__.py
+modules/scraper/mercado_livre_scraper.py
+rpa_mercado_livre.egg-info/PKG-INFO
+rpa_mercado_livre.egg-info/SOURCES.txt
+rpa_mercado_livre.egg-info/dependency_links.txt
+rpa_mercado_livre.egg-info/top_level.txt
