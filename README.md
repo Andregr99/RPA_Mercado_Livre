@@ -53,6 +53,7 @@ cd rpa_mercado_livre
 2️⃣ Crie e ative um ambiente virtual:
 
 python -m venv venv
+
 Windows:
 venv\Scripts\activate
 
